@@ -41,4 +41,5 @@ Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléc
 ## Lecturas
 [1] Paul. A. Valle, Syllabus para la asignatura de Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México/IT Tijuana, Tijuana, B.C., México, 2025. Permalink: https://www.dropbox.com/scl/fi/4gl55ccrjm9yulvziikxs/Modelado-de-Sistemas-Fisiologicos.pdf
 
-[2] M. C. Khoo, Physiological Control Systems Analysis Simulation, and Estimation, 2nd ed. Piscataway, New Jersey, USA: IEEE Press, 2018.
+[2] M. C. Khoo, Physiological Control Systems Analysis Simulation, and Estimation, 2nd ed. Piscataway,
+ New Jersey, USA: IEEE Press, 2018, Section 2, pages 24, 44 and 53
