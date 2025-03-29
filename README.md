@@ -23,14 +23,13 @@ Actividades
  sintonizar los valores óptimos para cada una de las ganancias kP, kI y kD.
  6. Ilustrar el cambio del ujo de aire y el volumen tidal en respuesta a las siguientes formas de onda
  de presión sinusoidal en la apertura de la vía aérea [Pao (t)] :
- a) 15 respiraciones por minuto con una amplitud (A) de 2:5 cmH2O, es decir, respiración normal.
-98
+ a) 15 respiraciones por minuto con una amplitud (A) de 2:5 cmH2O, es decir, respiración normal 98
  b) 30 respiraciones por minuto con una amplitud (A) de 1:5 cmH2O, es decir, respiración elevada
  o taquipnea.
- 7. Determinar la respuesta a la función sinusoidal [u(t) = Asin!t] en el intervalo t 2 [0;30] (segundos),
+ 8. Determinar la respuesta a la función sinusoidal [u(t) = Asin!t] en el intervalo t 2 [0;30] (segundos),
  en Python, Simulink y Multisim en lazo abierto y en lazo cerrado con el controlador.
- 8. Elaborar el diagrama biológico del sistema con BioRender.com.
- 9. Discutir los resultados obtenidos en la experimentación in silico y elaborar el reporte de la práctica.
+ 9. Elaborar el diagrama biológico del sistema con BioRender.com.
+ 10. Discutir los resultados obtenidos en la experimentación in silico y elaborar el reporte de la práctica.
 
 ## Docente
 Dr. Paul A. Valle
