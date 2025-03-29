@@ -1,6 +1,6 @@
 # MSF-Practica-2
 Practica 2: Mecanica Pulmonar
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Dario-Mtz/MSF-Practica-1)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Dario-Mtz/MSF-Practica-2)
 # MSF-Practica-2
 Practica 2: Mecanica Pulmonar
 # Modelado de Sistemas Fisiológicos. Práctica 2: Mecanica Pulmonar [Martinez21210684]
